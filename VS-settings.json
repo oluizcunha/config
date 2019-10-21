@@ -1,0 +1,25 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Dracula",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "explorer.confirmDelete": false,
+    "window.zoomLevel": 0,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "files.autoSave": "off",
+    "editor.formatOnSave": true,
+    "editor.renderLineHighlight": "gutter",
+    "terminal.integrated.fontSize": 12,
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "breadcrumbs.enabled": true,
+    "prettier.eslintIntegration": true,
+    "terminal.integrated.shell.linux": "/bin/zsh"
+}
