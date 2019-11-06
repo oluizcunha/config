@@ -1,6 +1,7 @@
 {
     "workbench.iconTheme": "material-icon-theme",
     "workbench.colorTheme": "Dracula",
+    "editor.fontSize": 14,
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
@@ -20,6 +21,6 @@
         "javascript": "javascriptreact"
     },
     "breadcrumbs.enabled": true,
-    "prettier.eslintIntegration": true,
+    "eslint.autoFixOnSave": true,
     "terminal.integrated.shell.linux": "/bin/zsh"
 }
