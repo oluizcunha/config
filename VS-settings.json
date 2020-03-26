@@ -21,6 +21,9 @@
         "javascript": "javascriptreact"
     },
     "breadcrumbs.enabled": true,
-    "eslint.autoFixOnSave": true,
-    "terminal.integrated.shell.linux": "/bin/zsh"
+    "terminal.integrated.shell.linux": "/bin/bash",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "C_Cpp.updateChannel": "Insiders"
 }
